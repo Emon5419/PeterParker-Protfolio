@@ -1,3 +1,2 @@
-# developer-portfolio
-### Live Website: [https://programminghero1.github.io/developer-portfolio/](https://programminghero1.github.io/developer-portfolio/)
-"# PeterParker-Protfolio" 
+# Peter Parker Developer Protfolio
+ 
